@@ -9,7 +9,7 @@
 
 # 💬 About Me
 
-学科で機械を学び、研究ではサーバやセキュリティ、趣味でフロントを勉強しています！<br>
+![Header](./public//github-header-image.png)
 
 # 🖥️ Tech Stack
 
@@ -37,14 +37,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bq22005&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bq22005&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 💾 Top Contributed Repo
+
+---
+
+![](https://github-contributor-stats.vercel.app/api?username=bq22005&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
+
+[![](https://visitcount.itsvg.in/api?id=bq22005&icon=10&color=1)](https://visitcount.itsvg.in)
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=bq22005&theme=cobalt&no-frame=true&no-bg=true&margin-w=4)
 
-### 💾 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=bq22005&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
-
 ---
-
-[![](https://visitcount.itsvg.in/api?id=bq22005&icon=10&color=1)](https://visitcount.itsvg.in)
